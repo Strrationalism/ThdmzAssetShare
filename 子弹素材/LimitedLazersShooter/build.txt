@@ -1,0 +1,14 @@
+120 90 RGBA
+assets\Textures\Bullets\LimitedLazersShooter.ctx
+assets_source\Bullets\LimitedLazersShooter\0.png 0 0
+assets_source\Bullets\LimitedLazersShooter\1.png 30 0
+assets_source\Bullets\LimitedLazersShooter\2.png 60 0
+assets_source\Bullets\LimitedLazersShooter\3.png 90 0
+assets_source\Bullets\LimitedLazersShooter\4.png 0 30
+assets_source\Bullets\LimitedLazersShooter\5.png 30 30
+assets_source\Bullets\LimitedLazersShooter\6.png 60 30
+assets_source\Bullets\LimitedLazersShooter\7.png 90 30
+assets_source\Bullets\LimitedLazersShooter\8.png 0 60
+assets_source\Bullets\LimitedLazersShooter\9.png 30 60
+assets_source\Bullets\LimitedLazersShooter\9.png 30 60
+@END

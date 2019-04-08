@@ -1,0 +1,4 @@
+1280 720 DXT1_RGB
+assets\Textures\StageBackground\Stage3R_BK1.ctx
+assets_source\StageBackground\Stage3R\BK1.png 0 0
+@END

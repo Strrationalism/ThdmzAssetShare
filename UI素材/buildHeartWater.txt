@@ -1,0 +1,4 @@
+64 64 RGBA
+assets\Textures\GameUI\HeartWater.ctx
+assets_source\GameUI\heart_water.png 0 0
+@END

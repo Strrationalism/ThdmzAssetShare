@@ -1,0 +1,5 @@
+627 180 RGBA
+assets\Textures\GameUI\SpellBonus.ctx
+assets_source\GameUI\Boss\GetSpellCardBonus.png 0 0
+assets_source\GameUI\Boss\BonusFailed.png 0 120
+@END

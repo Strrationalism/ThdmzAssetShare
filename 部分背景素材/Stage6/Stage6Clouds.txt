@@ -1,0 +1,11 @@
+3857 1107 DXT3
+assets\Textures\StageBackground\Stage6_Clouds.ctx
+assets_source\StageBackground\Stage6\0.png 0 564
+assets_source\StageBackground\Stage6\1.png 944 564
+assets_source\StageBackground\Stage6\2.png 3126 0
+assets_source\StageBackground\Stage6\3.png 2368 393
+assets_source\StageBackground\Stage6\4.png 1382 0
+assets_source\StageBackground\Stage6\5.png 0 0
+assets_source\StageBackground\Stage6\6.png 3090 405
+assets_source\StageBackground\Stage6\7.png 2368 0
+@END

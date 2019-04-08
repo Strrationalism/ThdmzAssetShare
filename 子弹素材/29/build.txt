@@ -1,0 +1,6 @@
+246 216 RGBA
+assets\Textures\Bullets\29.ctx
+assets_source\Bullets\29\0.png 0 0
+assets_source\Bullets\29\1.png 0 108
+assets_source\Bullets\29\2.png 108 0
+@END

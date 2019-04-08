@@ -1,0 +1,5 @@
+76 46 RGBA
+assets\Textures\GameUI\Graze.ctx
+assets_source\GameUI\Graze.png 0 0
+assets_source\GameUI\Power.png 0 23
+@END

@@ -1,0 +1,4 @@
+192 400 DXT3
+assets\Textures\MaisaMasterSparkCircle.ctx
+assets_source\Player\Marisa\MasterCircle.png 0 0
+@END

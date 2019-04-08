@@ -1,0 +1,5 @@
+1024 512 DXT3
+assets\Textures\GameUI\BossMahoujin.ctx
+assets_source\GameUI\Boss\BossMahoujin.png 0 0
+assets_source\GameUI\Boss\BossMahoujin2.png 512 0
+@END

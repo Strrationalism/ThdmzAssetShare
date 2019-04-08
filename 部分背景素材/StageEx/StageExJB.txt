@@ -1,0 +1,4 @@
+1280 300 RGBA
+assets\Textures\StageBackground\StageEx_JB.ctx
+assets_source\StageBackground\StageEx\jb.png 0 0
+@END

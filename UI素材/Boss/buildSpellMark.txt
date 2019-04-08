@@ -1,0 +1,4 @@
+36 35 DXT3
+assets/Textures/GameUI/BossSpellMark.ctx
+assets_source\GameUI\Boss\SpellMark.png 0 0
+@END

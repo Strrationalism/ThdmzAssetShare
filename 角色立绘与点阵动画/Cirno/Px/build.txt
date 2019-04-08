@@ -1,0 +1,13 @@
+660 630 RGBA
+assets\Textures\Charater\CirnoPx.ctx
+assets_source\Charater\Cirno\Px\1.png 0 0
+assets_source\Charater\Cirno\Px\2.png 220 0
+assets_source\Charater\Cirno\Px\3.png 440 0
+assets_source\Charater\Cirno\Px\4.png 0 210
+assets_source\Charater\Cirno\Px\5.png 220 210
+assets_source\Charater\Cirno\Px\1-1.png 440 210
+assets_source\Charater\Cirno\Px\2-2.png 0 420
+assets_source\Charater\Cirno\Px\3-3.png 220 420
+assets_source\Charater\Cirno\Px\4.png 0 210
+assets_source\Charater\Cirno\Px\5.png 220 210
+@END

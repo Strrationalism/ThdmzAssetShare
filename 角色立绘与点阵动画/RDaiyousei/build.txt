@@ -1,0 +1,6 @@
+1458 720 RGBA
+assets\Textures\Charater\RDaiyousei.ctx
+assets_source\Charater\RDaiyousei\0.png 0 0
+assets_source\Charater\RDaiyousei\1.png 486 0
+assets_source\Charater\RDaiyousei\2.png 972 0
+@END

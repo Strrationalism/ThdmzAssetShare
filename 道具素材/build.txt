@@ -1,0 +1,10 @@
+128 128 RGBA
+assets\Textures\Items.ctx
+assets_source\Item\1UPKagera.png 0 0
+assets_source\Item\BigPower.png 0 64
+assets_source\Item\Power.png 64 0
+assets_source\Item\Score.png 96 0
+assets_source\Item\UpCorner.png 64 32
+assets_source\Item\BigPowerG.png 96 96
+assets_source\Item\PowerG.png 64 96
+@END

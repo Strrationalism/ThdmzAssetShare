@@ -1,0 +1,4 @@
+128 128 DXT3
+assets\Textures\Enemys\Style24.ctx
+assets_source\Enemys\e24\1.png 0 0
+@END

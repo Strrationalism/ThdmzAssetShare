@@ -1,0 +1,7 @@
+200 180 DXT5
+assets\Textures\Enemys\Style13.ctx
+assets_source\Enemys\e13\1.png 0 0
+assets_source\Enemys\e13\2.png 100 0
+assets_source\Enemys\e13\3.png 0 90
+assets_source\Enemys\e13\4.png 100 90
+@END

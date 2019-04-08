@@ -1,0 +1,4 @@
+1217 1217 DXT5
+assets\Textures\StageBackground\Stage6_SunLight.ctx
+assets_source\StageBackground\Stage6\sunLight.png 0 0
+@END

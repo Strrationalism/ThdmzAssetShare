@@ -1,0 +1,4 @@
+1280 960 DXT5
+assets\Textures\StageBackground\StageEx_SCBK1.ctx
+assets_source\StageBackground\StageEx\SCBK1.png 0 0
+@END

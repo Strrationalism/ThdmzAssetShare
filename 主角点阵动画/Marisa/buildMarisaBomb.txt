@@ -1,0 +1,4 @@
+1280 400 DXT1
+assets\Textures\MaisaMasterSparkMask.ctx
+assets_source\Player\Marisa\MasterSpark.png 0 0
+@END

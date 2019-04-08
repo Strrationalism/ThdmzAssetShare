@@ -1,0 +1,4 @@
+1825 1825 DXT5
+assets\Textures\StageBackground\Stage6_SunLightCircle.ctx
+assets_source\StageBackground\Stage6\sunLightCircle.png 0 0
+@END

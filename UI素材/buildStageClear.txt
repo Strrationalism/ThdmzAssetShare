@@ -1,0 +1,4 @@
+474 111 RGBA
+assets\Textures\GameUI\StageClear.ctx
+assets_source\GameUI\StageClear.png 0 0
+@END

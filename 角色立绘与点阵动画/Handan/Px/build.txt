@@ -1,0 +1,8 @@
+1100 210 RGBA
+assets\Textures\Charater\HandanPx.ctx
+assets_source\Charater\Handan\Px\1.png 0 0
+assets_source\Charater\Handan\Px\2.png 220 0
+assets_source\Charater\Handan\Px\3.png 440 0
+assets_source\Charater\Handan\Px\4.png 660 0
+assets_source\Charater\Handan\Px\5.png 880 0
+@END

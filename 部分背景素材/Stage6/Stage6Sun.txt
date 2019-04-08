@@ -1,0 +1,4 @@
+361 361 DXT5
+assets\Textures\StageBackground\Stage6_Sun.ctx
+assets_source\StageBackground\Stage6\sun.png 0 0
+@END

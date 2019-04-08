@@ -1,0 +1,15 @@
+660 630 RGBA
+assets\Textures\Charater\AwanLjanPx.ctx
+assets_source\Charater\AwanLjan\Px\1.png 0 0
+assets_source\Charater\AwanLjan\Px\2.png 220 0
+assets_source\Charater\AwanLjan\Px\3.png 440 0
+assets_source\Charater\AwanLjan\Px\4.png 0 210
+assets_source\Charater\AwanLjan\Px\5.png 220 210
+assets_source\Charater\AwanLjan\Px\6.png 440 210
+assets_source\Charater\AwanLjan\Px\1.png 0 0
+assets_source\Charater\AwanLjan\Px\2.png 220 0
+assets_source\Charater\AwanLjan\Px\3-1.png 0 420
+assets_source\Charater\AwanLjan\Px\4-1.png 220 420
+assets_source\Charater\AwanLjan\Px\5-1.png 440 420
+assets_source\Charater\AwanLjan\Px\6.png 440 210
+@END

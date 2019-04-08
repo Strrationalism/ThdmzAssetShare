@@ -1,0 +1,4 @@
+1300 1036 DXT3
+assets\Textures\StageBackground\Stage3R_FLAMER.ctx
+assets_source\StageBackground\Stage3R\FLAMER.png 0 0
+@END

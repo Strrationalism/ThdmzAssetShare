@@ -1,0 +1,13 @@
+112 114 RGBA
+assets\Textures\GameUI\Number1.ctx
+assets_source\GameUI\Number\Style1\0.png 0 0
+assets_source\GameUI\Number\Style1\1.png 28 0
+assets_source\GameUI\Number\Style1\2.png 56 0
+assets_source\GameUI\Number\Style1\3.png 84 0
+assets_source\GameUI\Number\Style1\4.png 0 38
+assets_source\GameUI\Number\Style1\5.png 28 38
+assets_source\GameUI\Number\Style1\6.png 56 38
+assets_source\GameUI\Number\Style1\7.png 84 38
+assets_source\GameUI\Number\Style1\8.png 0 76
+assets_source\GameUI\Number\Style1\9.png 28 76
+@END

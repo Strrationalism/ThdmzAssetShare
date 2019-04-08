@@ -1,0 +1,7 @@
+68 100 RGBA
+assets\Textures\Bullets\12.ctx
+assets_source\Bullets\12~15\12\1.png 0 0
+assets_source\Bullets\12~15\12\2.png 34 0
+assets_source\Bullets\12~15\12\3.png 0 50
+assets_source\Bullets\12~15\12\4.png 34 50
+@END

@@ -1,0 +1,11 @@
+216 104 DXT3
+assets\Textures\Enemys\Style8.ctx
+assets_source\Enemys\e8\1.png 0 0
+assets_source\Enemys\e8\2.png 54 0
+assets_source\Enemys\e8\3.png 108 0
+assets_source\Enemys\e8\4.png 162 0
+assets_source\Enemys\e8\5.png 0 52
+assets_source\Enemys\e8\6.png 54 52
+assets_source\Enemys\e8\7.png 108 52
+assets_source\Enemys\e8\8.png 162 52
+@END

@@ -1,0 +1,4 @@
+807 416 DXT5
+assets\Textures\GameUI\EnemyWarning.ctx
+assets_source\GameUI\EnemyWarning.png 0 0
+@END

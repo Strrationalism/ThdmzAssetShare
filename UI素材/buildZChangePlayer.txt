@@ -1,0 +1,4 @@
+339 53 RGBA
+assets\Textures\GameUI\ZChangePlayer.ctx
+assets_source\GameUI\ZChangeChar.png 0 0
+@END

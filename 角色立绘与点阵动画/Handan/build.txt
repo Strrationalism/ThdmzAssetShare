@@ -1,0 +1,11 @@
+2044 1440 RGBA
+assets\Textures\Charater\Handan.ctx
+assets_source\Charater\Handan\0.png 0 0
+assets_source\Charater\Handan\1.png 511 0
+assets_source\Charater\Handan\2.png 1022 0
+assets_source\Charater\Handan\3.png 1533 720
+assets_source\Charater\Handan\4.png 0 720
+assets_source\Charater\Handan\5.png 511 720
+assets_source\Charater\Handan\6.png 1022 720
+assets_source\Charater\Handan\7.png 1533 720
+@END

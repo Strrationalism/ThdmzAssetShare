@@ -1,0 +1,5 @@
+30 31 RGBA
+assets\Textures\Bullets\16.ctx
+assets_source\Bullets\16\0.png 0 0
+assets_source\Bullets\16\1.png 1 30
+@END

@@ -1,0 +1,11 @@
+108 74 RGBA
+assets\Textures\Charater\DoremiBookPx.ctx
+assets_source\Charater\Doremi\Px\Book\1.png 0 0
+assets_source\Charater\Doremi\Px\Book\2.png 27 0
+assets_source\Charater\Doremi\Px\Book\3.png 54 0
+assets_source\Charater\Doremi\Px\Book\4.png 81 0
+assets_source\Charater\Doremi\Px\Book\5.png 0 37
+assets_source\Charater\Doremi\Px\Book\6.png 27 37
+assets_source\Charater\Doremi\Px\Book\7.png 54 37
+assets_source\Charater\Doremi\Px\Book\8.png 81 37
+@END

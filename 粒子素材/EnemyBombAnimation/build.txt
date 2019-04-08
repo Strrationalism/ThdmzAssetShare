@@ -1,0 +1,17 @@
+1152 1152 DXT5
+assets\Textures\EnemyBombAnimation.ctx
+assets_source\Particle3D\EnemyBombAnimation\biu0.png 0 0
+assets_source\Particle3D\EnemyBombAnimation\biu1.png 0 288
+assets_source\Particle3D\EnemyBombAnimation\biu2.png 0 576
+assets_source\Particle3D\EnemyBombAnimation\biu3.png 0 864
+assets_source\Particle3D\EnemyBombAnimation\biu4.png 288 0
+assets_source\Particle3D\EnemyBombAnimation\biu5.png 288 288
+assets_source\Particle3D\EnemyBombAnimation\biu6.png 288 576
+assets_source\Particle3D\EnemyBombAnimation\biu7.png 288 864
+assets_source\Particle3D\EnemyBombAnimation\biu8.png 576 0
+assets_source\Particle3D\EnemyBombAnimation\biu9.png 576 288
+assets_source\Particle3D\EnemyBombAnimation\biu10.png 576 576
+assets_source\Particle3D\EnemyBombAnimation\biu11.png 576 864
+assets_source\Particle3D\EnemyBombAnimation\biu12.png 864 0
+assets_source\Particle3D\EnemyBombAnimation\biu13.png 864 288
+@END

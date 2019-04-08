@@ -1,0 +1,4 @@
+1280 960 DXT1_RGB
+assets\Textures\StageBackground\Stage3R_ABK.ctx
+assets_source\StageBackground\Stage3R\ABK.png 0 0
+@END

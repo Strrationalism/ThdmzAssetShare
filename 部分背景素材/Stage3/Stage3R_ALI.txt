@@ -1,0 +1,4 @@
+1280 1280 DXT1_RGB
+assets\Textures\StageBackground\Stage3R_ALI.ctx
+assets_source\StageBackground\Stage3R\ALI.png 0 0
+@END

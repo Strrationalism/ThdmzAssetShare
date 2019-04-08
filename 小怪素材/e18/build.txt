@@ -1,0 +1,9 @@
+193 129 DXT3
+assets\Textures\Enemys\Style18.ctx
+assets_source\Enemys\e18\1.png 0 0
+assets_source\Enemys\e18\2.png 64 0
+assets_source\Enemys\e18\3.png 128 0
+assets_source\Enemys\e18\4.png 0 64
+assets_source\Enemys\e18\5.png 64 64
+assets_source\Enemys\e18\6.png 128 64
+@END

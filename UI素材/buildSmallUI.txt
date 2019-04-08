@@ -1,0 +1,7 @@
+128 176 DXT5
+assets\Textures\GameUI\SmallUI.ctx
+assets_source\GameUI\boss_spell.png 0 0
+assets_source\GameUI\life.png 0 40
+assets_source\GameUI\heart.png 0 80
+assets_source\GameUI\heart_cup.png 0 112
+@END

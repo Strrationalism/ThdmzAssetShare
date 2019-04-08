@@ -1,0 +1,7 @@
+200 180 DXT5
+assets\Textures\Enemys\Style11.ctx
+assets_source\Enemys\e11\1.png 0 0
+assets_source\Enemys\e11\2.png 100 0
+assets_source\Enemys\e11\3.png 0 90
+assets_source\Enemys\e11\4.png 100 90
+@END

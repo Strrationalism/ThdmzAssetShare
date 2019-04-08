@@ -1,0 +1,6 @@
+220 100 DXT3
+assets\Textures\GameUI\Dream.ctx
+assets_source\GameUI\Dream\Line.png 0 0
+assets_source\GameUI\Dream\Main.png 0 50
+assets_source\GameUI\Dream\Pointer.png 200 0
+@END

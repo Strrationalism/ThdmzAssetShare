@@ -1,0 +1,4 @@
+486 720 RGBA
+assets/Textures/Charater/Cirno.ctx
+assets_source/Charater/Cirno/0.png 0 0
+@END

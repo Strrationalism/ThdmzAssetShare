@@ -1,0 +1,4 @@
+98 34 RGBA
+assets\Textures\GameUI\Replay.ctx
+assets_source\GameUI\Replay.png 0 0
+@END

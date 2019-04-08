@@ -1,0 +1,5 @@
+40 24 RGBA
+assets\Textures\GameUI\BossHPPoint.ctx
+assets_source\GameUI\Boss\HPPoint.png 0 0
+assets_source\GameUI\Boss\YPos.png 16 0
+@END

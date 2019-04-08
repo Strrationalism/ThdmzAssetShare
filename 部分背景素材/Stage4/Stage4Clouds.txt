@@ -1,0 +1,4 @@
+2048 1159 DXT1_RGB
+assets\Textures\StageBackground\Stage4_Clouds.ctx
+assets_source\StageBackground\Stage4\Stage4Clouds.png 0 0
+@END

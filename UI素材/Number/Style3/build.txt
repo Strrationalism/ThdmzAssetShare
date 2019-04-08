@@ -1,0 +1,14 @@
+68 69 RGBA
+assets\Textures\GameUI\Number3.ctx
+assets_source\GameUI\Number\Style3\0.png 0 0
+assets_source\GameUI\Number\Style3\1.png 17 0
+assets_source\GameUI\Number\Style3\2.png 34 0
+assets_source\GameUI\Number\Style3\3.png 51 0
+assets_source\GameUI\Number\Style3\4.png 0 23
+assets_source\GameUI\Number\Style3\5.png 17 23
+assets_source\GameUI\Number\Style3\6.png 34 23
+assets_source\GameUI\Number\Style3\7.png 51 23
+assets_source\GameUI\Number\Style3\8.png 0 46
+assets_source\GameUI\Number\Style3\9.png 17 46
+assets_source\GameUI\Number\Style3\line.png 34 46
+@END

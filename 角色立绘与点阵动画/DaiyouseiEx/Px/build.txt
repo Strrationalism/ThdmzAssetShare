@@ -1,0 +1,13 @@
+1100 420 RGBA
+assets\Textures\Charater\DaiyouseiExPx.ctx
+assets_source\Charater\DaiyouseiEx\Px\1.png 0 0
+assets_source\Charater\DaiyouseiEx\Px\2.png 220 0
+assets_source\Charater\DaiyouseiEx\Px\3.png 440 0
+assets_source\Charater\DaiyouseiEx\Px\4.png 660 0
+assets_source\Charater\DaiyouseiEx\Px\5.png 880 0
+assets_source\Charater\DaiyouseiEx\Px\1-1.png 0 210
+assets_source\Charater\DaiyouseiEx\Px\2-1.png 220 210
+assets_source\Charater\DaiyouseiEx\Px\3-1.png 440 210
+assets_source\Charater\DaiyouseiEx\Px\4-1.png 660 210
+assets_source\Charater\DaiyouseiEx\Px\5.png 880 210
+@END

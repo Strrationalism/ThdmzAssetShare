@@ -1,0 +1,13 @@
+500 946 DXT3
+assets\Textures\GameUI\NameCards.ctx
+assets_source\GameUI\Boss\NameCards\0Reisen.png 0 0
+assets_source\GameUI\Boss\NameCards\1Tewi.png 0 86
+assets_source\GameUI\Boss\NameCards\2Doremy.png 0 172
+assets_source\GameUI\Boss\NameCards\3Daiyousei.png 0 258
+assets_source\GameUI\Boss\NameCards\4Cirno.png 0 344
+assets_source\GameUI\Boss\NameCards\5Reimu.png 0 430
+assets_source\GameUI\Boss\NameCards\6Marisa.png 0 516
+assets_source\GameUI\Boss\NameCards\7Nanke.png 0 602
+assets_source\GameUI\Boss\NameCards\8Huangliang.png 0 860
+assets_source\GameUI\Boss\NameCards\9Alice.png 0 774
+@END

@@ -1,0 +1,5 @@
+669 376 DXT3
+assets\Textures\StageBackground\StageEx_Snow.ctx
+assets_source\StageBackground\StageEx\0.png 0 0
+assets_source\StageBackground\StageEx\1.png 336 0
+@END

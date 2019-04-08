@@ -1,0 +1,14 @@
+231 482 DXT5
+assets\Textures\Bullets\LimitedLazers.ctx
+assets_source\Bullets\LimitedLazers\0.png 0 0
+assets_source\Bullets\LimitedLazers\1.png 21 0
+assets_source\Bullets\LimitedLazers\2.png 42 0
+assets_source\Bullets\LimitedLazers\3.png 63 0
+assets_source\Bullets\LimitedLazers\4.png 84 0
+assets_source\Bullets\LimitedLazers\5.png 105 0
+assets_source\Bullets\LimitedLazers\6.png 126 0
+assets_source\Bullets\LimitedLazers\7.png 147 0
+assets_source\Bullets\LimitedLazers\8.png 168 0
+assets_source\Bullets\LimitedLazers\9.png 189 0
+assets_source\Bullets\LimitedLazers\10.png 210 0
+@END

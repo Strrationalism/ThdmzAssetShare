@@ -1,0 +1,12 @@
+320 128 RGBA
+assets\Textures\Bullets\10.ctx
+assets_source\Bullets\10\0.png 0 0
+assets_source\Bullets\10\1.png 64 0
+assets_source\Bullets\10\2.png 128 0
+assets_source\Bullets\10\3.png 192 0
+assets_source\Bullets\10\4.png 256 0
+assets_source\Bullets\10\5.png 0 64
+assets_source\Bullets\10\6.png 64 64
+assets_source\Bullets\10\7.png 128 64
+assets_source\Bullets\10\8.png 192 64
+@END

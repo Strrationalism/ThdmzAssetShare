@@ -1,0 +1,5 @@
+160 60 DXT3
+assets\Textures\GameUI\GameShell.ctx
+assets_source\GameUI\GameShell.png 0 0
+assets_source\GameUI\GameShell2.png 0 30
+@END

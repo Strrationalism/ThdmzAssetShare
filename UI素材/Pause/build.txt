@@ -1,0 +1,17 @@
+576 902 DXT5
+assets\Textures\GameUI\PauseActivity.ctx
+assets_source\GameUI\Pause\Continue.png 0 0
+assets_source\GameUI\Pause\Restart.png 0 52
+assets_source\GameUI\Pause\BackToTitle.png 0 104
+assets_source\GameUI\Pause\SaveRepBack.png 0 156
+assets_source\GameUI\Pause\GameOverLabel.png 0 215
+assets_source\GameUI\Pause\PauseLabel.png 0 318
+assets_source\GameUI\Pause\ContinueRep.png 0 421
+assets_source\GameUI\Pause\SaveRepTitle.png 0 473
+assets_source\GameUI\Pause\SaveRepHint.png 0 548
+assets_source\GameUI\Pause\NeedSaveRep.png 0 760
+assets_source\GameUI\Pause\Yes.png 390 760
+assets_source\GameUI\Pause\No.png 433 760
+assets_source\GameUI\Pause\RepListHint.png 476 0
+assets_source\GameUI\Pause\PlayFinished.png 0 812
+@END

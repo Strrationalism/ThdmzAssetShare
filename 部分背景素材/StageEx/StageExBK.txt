@@ -1,0 +1,4 @@
+1280 640 RGBA
+assets\Textures\StageBackground\StageEx_BK.ctx
+assets_source\StageBackground\StageEx\back.png 0 0
+@END

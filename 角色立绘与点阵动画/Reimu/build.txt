@@ -1,0 +1,11 @@
+1944 1440 RGBA
+assets\Textures\Charater\Reimu.ctx
+assets_source\Charater\Reimu\0.png 0 0
+assets_source\Charater\Reimu\1.png 486 0
+assets_source\Charater\Reimu\2.png 972 0
+assets_source\Charater\Reimu\3.png 1458 0
+assets_source\Charater\Reimu\4.png 0 720
+assets_source\Charater\Reimu\5.png 486 720
+assets_source\Charater\Reimu\6.png 972 720
+assets_source\Charater\Reimu\7.png 1458 720
+@END

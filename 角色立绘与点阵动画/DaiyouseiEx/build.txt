@@ -1,0 +1,5 @@
+973 720 RGBA
+assets\Textures\Charater\DaiyouseiEx.ctx
+assets_source\Charater\DaiyouseiEx\0.png 0 0
+assets_source\Charater\DaiyouseiEx\1.png 486 0
+@END

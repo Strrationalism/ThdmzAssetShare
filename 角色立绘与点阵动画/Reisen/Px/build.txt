@@ -1,0 +1,13 @@
+1100 440 RGBA
+assets\Textures\Charater\ReisenPx.ctx
+assets_source\Charater\Reisen\Px\1.png 0 0
+assets_source\Charater\Reisen\Px\2.png 220 0
+assets_source\Charater\Reisen\Px\3.png 440 0
+assets_source\Charater\Reisen\Px\4.png 660 0
+assets_source\Charater\Reisen\Px\5.png 880 0
+assets_source\Charater\Reisen\Px\1.png 0 220
+assets_source\Charater\Reisen\Px\2.png 220 220
+assets_source\Charater\Reisen\Px\3-1.png 440 220
+assets_source\Charater\Reisen\Px\4-1.png 660 220
+assets_source\Charater\Reisen\Px\5-1.png 880 220
+@END

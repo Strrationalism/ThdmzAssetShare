@@ -1,0 +1,19 @@
+512 512 DXT5
+assets\Textures\Particle3D.ctx
+assets_source\Particle3D\0.png 158 0
+assets_source\Particle3D\1.png 128 128
+assets_source\Particle3D\2.png 0 0
+assets_source\Particle3D\3.png 158 64
+assets_source\Particle3D\4.png 0 128
+assets_source\Particle3D\e14p0.png 0 336
+assets_source\Particle3D\e14p1.png 30 336
+assets_source\Particle3D\e15p0.png 60 336
+assets_source\Particle3D\e15p1.png 90 336
+assets_source\Particle3D\e16p0.png 120 336
+assets_source\Particle3D\e16p1.png 150 336
+assets_source\Particle3D\e17p0.png 180 336
+assets_source\Particle3D\e17p1.png 210 336
+assets_source\Particle3D\e18p0.png 240 336
+assets_source\Particle3D\e18p1.png 270 336
+assets_source\Particle3D\15.png 0 380
+@END

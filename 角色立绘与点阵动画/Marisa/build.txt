@@ -1,0 +1,9 @@
+1458 1440 RGBA
+assets\Textures\Charater\Marisa.ctx
+assets_source\Charater\Marisa\0.png 0 0
+assets_source\Charater\Marisa\1.png 486 0
+assets_source\Charater\Marisa\2.png 972 0
+assets_source\Charater\Marisa\3.png 0 720
+assets_source\Charater\Marisa\4.png 486 720
+assets_source\Charater\Marisa\5.png 972 720
+@END

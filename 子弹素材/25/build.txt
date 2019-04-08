@@ -1,0 +1,13 @@
+128 48 RGBA
+assets\Textures\Bullets\25.ctx
+assets_source\Bullets\25\0.png 0 0
+assets_source\Bullets\25\1.png 32 0
+assets_source\Bullets\25\2.png 64 0
+assets_source\Bullets\25\3.png 96 0
+assets_source\Bullets\25\4.png 0 24
+assets_source\Bullets\25\5.png 32 24
+assets_source\Bullets\25\6.png 64 24
+assets_source\Bullets\25\7.png 96 24
+assets_source\Bullets\25\8.png 16 0
+assets_source\Bullets\25\9.png 16 24
+@END

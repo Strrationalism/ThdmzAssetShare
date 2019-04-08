@@ -1,0 +1,4 @@
+84 720 DXT3
+assets\Textures\GameUI\GetItemBorderLine.ctx
+assets_source\GameUI\GetItemBorderLine.png 0 0
+@END

@@ -1,0 +1,10 @@
+1944 1440 RGBA
+assets/Textures/Charater/Doremi.ctx
+assets_source/Charater/Doremi/0.png 0 0
+assets_source/Charater/Doremi/1.png 486 0
+assets_source/Charater/Doremi/2.png 972 0
+assets_source/Charater/Doremi/3.png 0 720
+assets_source/Charater/Doremi/4.png 486 720
+assets_source/Charater/Doremi/5.png 972 720
+assets_source/Charater/Doremi/6.png 1458 0
+@END

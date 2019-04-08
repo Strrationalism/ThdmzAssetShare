@@ -1,0 +1,9 @@
+1710 1440 RGBA
+assets\Textures\Charater\AwanLjan.ctx
+assets_source\Charater\AwanLjan\0.png 0 0
+assets_source\Charater\AwanLjan\1.png 570 0
+assets_source\Charater\AwanLjan\2.png 1140 0
+assets_source\Charater\AwanLjan\3.png 0 720
+assets_source\Charater\AwanLjan\4.png 570 720
+assets_source\Charater\AwanLjan\5.png 1140 720
+@END

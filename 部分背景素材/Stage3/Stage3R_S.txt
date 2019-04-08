@@ -1,0 +1,15 @@
+1582 1993 DXT1_RGB
+assets\Textures\StageBackground\Stage3R_S.ctx
+assets_source\StageBackground\Stage3R\S00.png 0 0
+assets_source\StageBackground\Stage3R\S01.png 789 0
+assets_source\StageBackground\Stage3R\S02.png 0 357
+assets_source\StageBackground\Stage3R\S04.png 717 373
+assets_source\StageBackground\Stage3R\S05.png 0 705
+assets_source\StageBackground\Stage3R\S06.png 261 701
+assets_source\StageBackground\Stage3R\S07.png 441 797
+assets_source\StageBackground\Stage3R\S08.png 0 1045
+assets_source\StageBackground\Stage3R\S09.png 645 1029
+assets_source\StageBackground\Stage3R\S10.png 1085 1021
+assets_source\StageBackground\Stage3R\S11.png 0 1421
+assets_source\StageBackground\Stage3R\S12.png 353 1449
+@END

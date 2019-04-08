@@ -1,0 +1,4 @@
+202 32 DXT3
+assets/Textures/GameUI/BossSpellCardAttack.ctx
+assets_source/GameUI/Boss/SpellCardAttack.png 0 0
+@END
